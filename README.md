@@ -4,7 +4,7 @@ CCA 2018 Spring
 ## HOMEWORK for Week 2
 
 
-Find an interesting Arduino project and briefly describe it.
+### Find an interesting Arduino project and briefly describe it.
 
 
 Project Name: Issey Miyake Bao Bao Bag Concept
@@ -21,7 +21,7 @@ Publish Date: December 19, 2017
 I find this wearable Arduino-driven electronic fashion bag extremely interesting. The idea of the project is inspired by the design of [Bao Bao bag](https://www.isseymiyake.com/en/brands/baobao) by a Japanese fashion designer Issey Miyake, who is famous for his technology-driven clothing designs. The original Bao Bao bag is flashy with its material, shape and pattern. Kimbab uses colorful LEDs in triangle shapes to make the surface of the newly remodeled smart Bao Bao bag. Controlled by an Arduino UNO, the surface can show customized patterns and animations. In his [demo video](https://youtu.be/EZ4qKqp91Pk), the light effect of the bag is glorious. It will definitely be an eye-catcher when walking on the street with it.
 
 
-### Sensors
+### 3 Sensors
 
 [PIR Motion Sensors](https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/) are inexpensive solutions for detecting human-beings or animals moving around a certain area. They can be used by the machines to interact with humans. Once a human gets into a certain area, the machine can give corrsponding responses. It's a location-based response. For example, an automatica door will be opened when it detects someone arrives. The PIR sensors may be hacked for more advanced usage, for example, detecting the distance between the sensor and the target.
 
