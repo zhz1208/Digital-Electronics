@@ -4,7 +4,7 @@ CCA 2018 Spring
 ## HOMEWORK for Week 2
 
 
-### Find an interesting Arduino project and briefly describe it.
+### An interesting Arduino project
 
 
 Project Name: Issey Miyake Bao Bao Bag Concept
