@@ -1,5 +1,5 @@
 # Digital-Electronics
-CCA 2018 Spring
+CCA 2018 Spring - Huizhong Zhu
 
 ## HOMEWORK for Week 2
 
