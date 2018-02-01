@@ -4,7 +4,7 @@ CCA 2018 Spring
 ## HOMEWORK for Week 2
 
 
-### An interesting Arduino project
+### An Interesting Arduino Project
 
 
 Project Name: Issey Miyake Bao Bao Bag Concept
