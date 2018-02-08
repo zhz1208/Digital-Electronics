@@ -43,7 +43,9 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 1. Arduino UNO board
 2. 5 mandarins
 3. 5 resistors (?Ω)
-4. jumper wires
+4. Jumper wires
 5. A piezo buzzer
+6. A breadboard
 
-
+#### Reference
+![](https://github.com/zhz1208/Digital-Electronics/blob/master/circuit.jpg)
