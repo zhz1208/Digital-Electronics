@@ -29,6 +29,21 @@ I find this wearable Arduino-driven electronic fashion bag extremely interesting
 
 ## HOMEWORK for Week 3
 
-![](https://github.com/zhz1208/Digital-Electronics/blob/master/PNG%20image-3E0CE4C68292-1.png)
+### Mandarin Piano
+
+#### Sketching
+![](https://github.com/zhz1208/Digital-Electronics/blob/master/PNG%20image-321ADD91BD44-1.png)
+
+#### Description
+
+The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The led bulb on the mandarin will light up when touching the mandarin. Thus the player can see the visual music he/she is playing in dark.
+
+#### Required Parts/Materials
+
+1. Arduino UNO board
+2. 5 mandarins
+3. 5 resistors (?Ω)
+4. jumper wires
+5. A piezo buzzer
 
 
