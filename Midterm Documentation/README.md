@@ -5,6 +5,10 @@ CCA 2018 Spring - Huizhong Zhu
 
 The capacitive-touch Arduino piano has letters displayed on each keyboard. One person plays the piano based on the spelling of another person’s name. Therefore, they will hear a unique melody based on the name. 
 
+### Drawing
+
+### Pictures
+
 ### Code
 
 ```C++
