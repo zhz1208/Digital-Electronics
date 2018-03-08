@@ -51,7 +51,7 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 
 ### Concept
 
-One person plays the capacitive-touch Arduino piano based on the name of another person sitting in front of him/her. Each keyboard is encrypted with letters. Therefore, every name crafts its unique melody. 
+One person plays the capacitive-touch Arduino piano based on the name of another person sitting in front of him/her. Each keyboard is encrypted with letters. Therefore, every name has its unique melody. 
 
 ### Code
 
