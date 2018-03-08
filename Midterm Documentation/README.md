@@ -3,7 +3,7 @@ CCA 2018 Spring - Huizhong Zhu
 
 ### Concept
 
-One person plays the capacitive-touch Arduino piano based on the name of another person sitting in front of him/her. Each keyboard is encrypted with letters. Therefore, every name has its unique melody. 
+The capacitive-touch Arduino piano has letters displayed on each keyboard. One person plays the piano based on the spelling of another person’s name. Therefore, they will hear a unique melody based on the name. 
 
 ### Code
 
@@ -60,4 +60,14 @@ void loop() {
 ![](https://github.com/zhz1208/Digital-Electronics/blob/master/Midterm%20Documentation/circuit.jpg)
 
 ### Concept Proposal for The Final Project
+
+This device is designed for two people. A plays the role of performer and B plays the role of audience.
+First, A asks for B’s name. 
+Then A plays a melody based on B’s name. Meanwhile, B writes down a wish for A on the wish card and paste it on the hand.
+Finally, the speaker will replay the unique melody. As soon as it finishes, the hand lifts up with the wish card which can be seen by A.
+
+### Challenges
+
+Currently, my biggest challenge is combining all parts (the piano and the hand) together. I can figure out each part separately. But, I have no idea about combining them into one on both circuit sketching or coding.
+
 
