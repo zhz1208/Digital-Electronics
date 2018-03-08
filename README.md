@@ -70,7 +70,6 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 // Each key corresponds to a note, which are defined here. Uncomment the scale that you want to use:
 int notes[]={NOTE_C5,NOTE_D5,NOTE_E5,NOTE_F5,NOTE_G5,NOTE_A5,NOTE_B5}; // C-Major scale
 
-
 //int notes[]={NOTE_A4,NOTE_B4,NOTE_C5,NOTE_D5,NOTE_E5,NOTE_F5,NOTE_G5,NOTE_A5}; // A-Minor scale
 //int notes[]={NOTE_C4,NOTE_DS4,NOTE_F4,NOTE_FS4,NOTE_G4,NOTE_AS4,NOTE_C5,NOTE_DS5}; // C Blues scale
 
@@ -87,29 +86,19 @@ void setup() {
 }
 
 void loop() {
-
     unsigned int keysPlaying = 0;
-
     // Loop through each key:
-
     for (int i = 0; i < NUM_OF_KEYS; ++i) {
-
         // If the capacitance reading is greater than the threshold, play a note:
-
         int c = keys[i].capacitiveSensor(NUM_OF_SAMPLES);
-
         if(c > CAP_THRESHOLD) {
-
             tone(BUZZER_PIN, notes[i]); // Plays the note corresponding to the key pressed
-
             keysPlaying++;
         }
     }
 
     if (keysPlaying == 0) {
-
         noTone(BUZZER_PIN);
-
     }
 }
 ```
