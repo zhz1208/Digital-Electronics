@@ -9,6 +9,7 @@ The capacitive-touch Arduino piano has letters displayed on each keyboard. One p
 ![](https://github.com/zhz1208/Digital-Electronics/blob/master/Midterm%20Documentation/initial%20sketching.png)
 
 ## Pictures
+![](https://github.com/zhz1208/Digital-Electronics/blob/master/Midterm%20Documentation/IMG_3847.JPG)
 
 ## Code
 
