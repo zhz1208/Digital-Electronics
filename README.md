@@ -47,7 +47,19 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 5. A piezo buzzer
 6. A breadboard
 
+## Final Project
 
+### The Boring Decider
+
+#### Description
+
+#### Sketching
+
+#### Required Parts
+
+#### Schematic
+
+#### Code
 
 
 
