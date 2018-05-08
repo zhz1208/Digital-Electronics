@@ -57,7 +57,17 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 
 #### Required Parts
 
+1. Arduino UNO board
+2. seven 1 KΩ resistors
+3. seven 470 Ω resistors
+4. seven buttons
+5. A speaker
+6. A servo motor
+7. A breadboard
+
 #### Schematic
+
+![https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider_bb.jpg]
 
 #### Code
 
