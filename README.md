@@ -67,7 +67,7 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 
 #### Schematic
 
-![https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider_bb.jpg]
+![](https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider_bb.jpg)
 
 #### Code
 
