@@ -53,7 +53,7 @@ The Mandarin Piano is a keyboard instrument. Each mandarin is a key to play. The
 
 #### Description
 
-
+The Boring Decider is for people who have trouble making decisions. First, play the keyboard freely. Then, push the play button，the speaker will play the melody that you just played. Meanwhile, the pointer rotates. The pointer stops when the music stops. At last, you can see which one you're going to choose.
 
 #### Required Parts
 
