@@ -75,4 +75,4 @@ The Boring Decider is for people who have trouble making decisions. First, play 
 
 #### Code
 
-# [Arduino](https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider.ino)
+# [Click to See](https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider.ino)
