@@ -57,7 +57,7 @@ The Boring Decider is for people who have trouble making decisions. First, play 
 
 ![](https://github.com/zhz1208/Digital-Electronics/blob/master/Snapseed%205.jpg)
 
-# [Watch The Video](https://drive.google.com/file/d/1LXj4bwg35XL8fb7Ns2L7PeHzCdCo5KHI/view?usp=sharing)
+## [Watch The Video](https://drive.google.com/file/d/1LXj4bwg35XL8fb7Ns2L7PeHzCdCo5KHI/view?usp=sharing)
 
 #### Required Parts
 
@@ -75,4 +75,4 @@ The Boring Decider is for people who have trouble making decisions. First, play 
 
 #### Code
 
-# [Click to See](https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider.ino)
+## [Click to See](https://github.com/zhz1208/Digital-Electronics/blob/master/the%20decider.ino)
